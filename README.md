@@ -1,7 +1,7 @@
 # Chronic Disease Project: Predicting Heart Disease and Diabetes
 
 ### Project Purpose
-Leveraging the latest CDC dataset, the aim is to empower individuals with predictions for both prevalent chronic diseases:heart disease and diabetes, aiding in health assessment and preventive measures. The project also involves developing a website for user-friendly predictions. [Chronic diseases prediction app](https://chronic-diseases.streamlit.app/)
+Leveraging the latest CDC dataset, the aim is to empower individuals with predictions for both prevalent chronic diseases:heart disease and diabetes, aiding in health assessment and preventive measures. The project also involves developing a website for user-friendly predictions. [Chronic Disease Prediction App](https://chronic-diseases.streamlit.app/)
 
 ### Project Focus
 - **Challenges:**
