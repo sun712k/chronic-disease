@@ -29,7 +29,3 @@ The project achieved valuable insights into the correlation between health statu
 ### Recommendations
 - **Targeted Interventions:** Tailor interventions for Southern states facing regional health disparities.
 - **Health Promotion:** Encourage healthier lifestyles and regular check-ups to reduce chronic disease prevalence.
-
-### Challenges
-- **Cross-Validation Issues:** Addressed by creating a separate validation set due to challenges with cross_val_score and gridsearch.
-- **Model Generalization:** Features selected may not generalize well to other models, highlighting the need for careful feature selection.
