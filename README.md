@@ -5,7 +5,7 @@ Leveraging the latest CDC dataset, the aim is to empower individuals with predic
 
 ### Project Focus
 - **Challenges:**
-  - **Class Imbalance:** Addressed through oversampling, class weights, and feature selection for optimal accuracy.
+  - **Class Imbalance:** Addressed through oversampling and class weights for optimal accuracy.
   - **Complex Dataset:** Reduced 39 variables to less than 20 for enhanced user interaction.
 
 - **Decision Paths:**
