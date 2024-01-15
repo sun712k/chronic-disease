@@ -7,11 +7,11 @@ This project aims to simultaneously predict heart disease and diabetes, addressi
 
 ---
 
-### Data Source
-Utilized 2022 CDC survey data (preprocessed by KAMIL PYTLAK), covering 400k+ adults and health-related information. [Preprocessing details](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data).
-
 ### Project Purpose
 Leveraging the latest CDC dataset, the aim is to empower individuals with predictions for both prevalent chronic diseases: heart disease and diabetes, aiding in health assessment and preventive measures. The project also involves developing a website for user-friendly predictions. 
+
+### Data Source
+Utilized 2022 CDC survey data (preprocessed by KAMIL PYTLAK), covering 400k+ adults and health-related information. [Preprocessing details](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data).
 
 ### Project Focus
 - **Challenges:**
