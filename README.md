@@ -3,7 +3,10 @@
 ## Overview
 This project aims to simultaneously predict heart disease and diabetes, addressing a gap in existing Kaggle projects that focus on individual diseases. Utilizing the 2022 annual CDC survey data with 400k+ adults' health-related information, the analysis and modeling efforts have yielded valuable insights into the impact of physical status, regional health disparities, and correlations between health status and chronic diseases. The models, with resampling, class-weight, and parameter tuning, exhibit improved performance, contributing to an 80% accuracy. While disease-specific prediction performance is lower (f1 macro score: around 37-43%), the model effectively assesses overall chronic disease risk, providing valuable information for health assessments. The project lays a foundation for understanding and predicting chronic diseases, with potential for future enhancements.
 
+
 [Chronic Disease Prediction App](https://chronic-diseases.streamlit.app/)
+![image](https://github.com/sun712k/chronic-disease/assets/120434553/b5c88f48-9739-48a5-ac43-822ea0b7b546)
+
 
 ---
 
