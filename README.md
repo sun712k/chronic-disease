@@ -5,7 +5,8 @@ This project aims to simultaneously predict heart disease and diabetes, addressi
 
 
 [Chronic Disease Prediction App](https://chronic-diseases.streamlit.app/)
-![image](https://github.com/sun712k/chronic-disease/assets/120434553/b5c88f48-9739-48a5-ac43-822ea0b7b546)
+
+<img src="https://github.com/sun712k/chronic-disease/assets/120434553/b5c88f48-9739-48a5-ac43-822ea0b7b546" alt="Image" width="50%" height="50%">
 
 
 ---
