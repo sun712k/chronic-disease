@@ -1,11 +1,12 @@
 # Integrated Health Assessment: Predicting Heart Disease and Diabetes with CDC Data
 
-<img src="https://github.com/sun712k/chronic-disease/assets/120434553/b5c88f48-9739-48a5-ac43-822ea0b7b546" alt="Image" width="60%">
-
 ### Overview
 This project aims to simultaneously predict heart disease and diabetes, bridging a gap in existing prediction models that typically focus on individual diseases. Leveraging the 2022 annual CDC survey data containing health-related information from over 400,000 adults, the analysis and modeling endeavors have unearthed valuable insights regarding the influence of physical status, regional health disparities, and correlations between health status and chronic diseases. Additionally, the project includes the development of a user-friendly website for predictions.
 
 [Chronic Disease Prediction App](https://chronic-diseases.streamlit.app/)
+
+<img src="https://github.com/sun712k/chronic-disease/assets/120434553/b5c88f48-9739-48a5-ac43-822ea0b7b546" alt="Image" width="60%">
+
 
 ### Data Understanding
 Originally part of the Behavioral Risk Factor Surveillance System (BRFSS), the dataset underwent preprocessing by [KAMIL PYTLAK](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease/data), reducing nearly 300 variables to 40. The selected 40 variables cover physical status, personal habits, medical procedures, vaccinations, and other health indicators. The dataset exhibits class imbalance, which is mitigated through oversampling and/or class-weight modeling techniques. To enhance user-friendliness, the number of variables is reduced to less than 20.
