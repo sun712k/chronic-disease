@@ -3,7 +3,9 @@
 ### Overview
 This project aims to simultaneously predict heart disease and diabetes, bridging a gap in existing prediction models that typically focus on individual diseases. Leveraging the 2022 annual CDC survey data containing health-related information from over 400,000 adults, the analysis and modeling endeavors have unearthed valuable insights regarding the influence of physical status, regional health disparities, and correlations between health status and chronic diseases. Additionally, the project includes the development of a user-friendly website for predictions.
 
-[Chronic Disease Prediction App](https://chronic-diseases.streamlit.app/)
+#### [Click here to assess your risk of chronic diseases!](https://chronic-diseases.streamlit.app/)
+
+[Chronic Disease Prediction App]
 
 <img src="https://github.com/sun712k/chronic-disease/assets/120434553/b5c88f48-9739-48a5-ac43-822ea0b7b546" alt="Image" width="60%">
 
