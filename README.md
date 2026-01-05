@@ -1,4 +1,4 @@
-# Integrated Health Assessment: Predicting Heart Disease and Diabetes with CDC Data (ft.streamlit)
+# Chronic Disease Prediction: Streamlit App
 
 ### Overview
 This project aims to simultaneously predict heart disease and diabetes, bridging a gap in existing prediction models that typically focus on individual diseases. Leveraging the 2022 annual CDC survey data containing health-related information from over 400,000 adults, the analysis and modeling endeavors have unearthed valuable insights regarding the influence of physical status, regional health disparities, and correlations between health status and chronic diseases. Additionally, the project includes the development of a user-friendly website for predictions.
